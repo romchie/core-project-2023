@@ -7,7 +7,7 @@ A Python script that reads in your Binghamton PODS username and password via std
 
 ### Documentation
 Install necessary requirements (webscraping tools)  
-```$ make installrequirements```
+```$ make installrequirements``` (NOTE: you may also want to try `$ make reinstall requirements`)  
 
 Run the program  
 ```$ make```
@@ -15,5 +15,5 @@ Run the program
 Reset the stored `username` and `password`  
 ```$ make resetcredentials```
 
-Clear the stored `username` and `password`
+Clear the stored `username` and `password`  
 ```$ make clean```
