@@ -7,8 +7,8 @@ A Python script that takes in your Binghamton PODS username and password through
 
 ### Documentation
 Install necessary requirements (webscraping tools)  
-`make installrequirements`
+```make installrequirements```
 
 Run the program  
-`make`
+```make```
 
