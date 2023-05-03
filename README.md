@@ -12,7 +12,7 @@ Install necessary requirements (webscraping tools)
 Run the program  
 ```$ make```
 
-Reset the stored `username` and `password`  
+Overwrite the stored `username` and `password`  
 ```$ make resetcredentials```
 
 Clear the stored `username` and `password`  
