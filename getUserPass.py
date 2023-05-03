@@ -1,5 +1,4 @@
 import os
-import time
 from getpass import getpass
 
 def main():
