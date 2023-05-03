@@ -1,5 +1,5 @@
 # CoRE Class Spring 2023
-A Python script that takes in your Binghamton PODS username and password through stdin and signs you in to Brightspace on Chrome
+A Python script that reads in your Binghamton PODS username and password via stdin and signs you in to Brightspace on Chrome
 
 ### Important Notes
 - make sure Chrome is installed and up to date
@@ -7,8 +7,13 @@ A Python script that takes in your Binghamton PODS username and password through
 
 ### Documentation
 Install necessary requirements (webscraping tools)  
-```make installrequirements```
+```$ make installrequirements```
 
 Run the program  
-```make```
+```$ make```
 
+Reset the stored `username` and `password`  
+```$ make resetcredentials```
+
+Clear the stored `username` and `password`
+```$ make clean```
