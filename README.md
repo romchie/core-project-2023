@@ -6,9 +6,9 @@ A Python script that takes in your Binghamton PODS username and password through
 - works locally on OSX (unsure about other builds)
 
 ### Documentation
-Install necessary requirements (webscraping tools)
+Install necessary requirements (webscraping tools)  
 `make installrequirements`
 
-Run the program
+Run the program  
 `make`
 
