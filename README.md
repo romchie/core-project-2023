@@ -4,6 +4,7 @@ A Python script that reads in your Binghamton University PODS username and passw
 ### Important Notes
 - please verify that Chrome is installed and up to date
 - program tested locally and works on OSX (unsure about other builds)
+- most likely necessary to give chromedriver permissions in (OSX) System Settings > Privacy & Security > Security 
 
 ### Documentation
 Install necessary requirements (webscraping tools)  
